@@ -9,4 +9,4 @@ VŠPJ
 
 Other
 
-03.02.2025 **[AI Training](AI_Training/AI_skoleni_pro_manazery.pdf)**
+03.02.2025 **AI Training**
